@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-comments-pagination/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-comments-pagination/static/js/main.1f9af03a.chunk.js",
-    "main.js.map": "/react-comments-pagination/static/js/main.1f9af03a.chunk.js.map",
+    "main.js": "/react-comments-pagination/static/js/main.f5379ee9.chunk.js",
+    "main.js.map": "/react-comments-pagination/static/js/main.f5379ee9.chunk.js.map",
     "runtime-main.js": "/react-comments-pagination/static/js/runtime-main.ed09c748.js",
     "runtime-main.js.map": "/react-comments-pagination/static/js/runtime-main.ed09c748.js.map",
     "static/css/2.f3cffc9e.chunk.css": "/react-comments-pagination/static/css/2.f3cffc9e.chunk.css",
     "static/js/2.e47551da.chunk.js": "/react-comments-pagination/static/js/2.e47551da.chunk.js",
     "static/js/2.e47551da.chunk.js.map": "/react-comments-pagination/static/js/2.e47551da.chunk.js.map",
     "index.html": "/react-comments-pagination/index.html",
-    "precache-manifest.e6bf036d4e8de4120d448d3fedbd3e42.js": "/react-comments-pagination/precache-manifest.e6bf036d4e8de4120d448d3fedbd3e42.js",
+    "precache-manifest.27982bb9bdf6e06985a11d660b28c5e0.js": "/react-comments-pagination/precache-manifest.27982bb9bdf6e06985a11d660b28c5e0.js",
     "service-worker.js": "/react-comments-pagination/service-worker.js",
     "static/css/2.f3cffc9e.chunk.css.map": "/react-comments-pagination/static/css/2.f3cffc9e.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/react-comments-pagination/static/css/main.5f361e03.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.f3cffc9e.chunk.css",
     "static/js/2.e47551da.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.1f9af03a.chunk.js"
+    "static/js/main.f5379ee9.chunk.js"
   ]
 }
