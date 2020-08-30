@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6c15b2d47aee61157e66defc54a0d409",
+    "revision": "c75228f1c61066c11ad00a0296ffd83f",
     "url": "/react-comments-pagination/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-comments-pagination/static/css/2.f3cffc9e.chunk.css"
   },
   {
-    "revision": "c63c1ed51b6db1862016",
-    "url": "/react-comments-pagination/static/css/main.5f361e03.chunk.css"
+    "revision": "f314e49a62d037060ced",
+    "url": "/react-comments-pagination/static/css/main.2f84f294.chunk.css"
   },
   {
     "revision": "ff60cf01b345c0ad89ca",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-comments-pagination/static/js/2.e47551da.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c63c1ed51b6db1862016",
-    "url": "/react-comments-pagination/static/js/main.f5379ee9.chunk.js"
+    "revision": "f314e49a62d037060ced",
+    "url": "/react-comments-pagination/static/js/main.dd4b5ae1.chunk.js"
   },
   {
     "revision": "53c5e97d5e5651e950ee",
